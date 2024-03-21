@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 # 加載CSV文件
 data = pd.read_csv('onlinefoods.csv')
 
